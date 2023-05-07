@@ -15,6 +15,9 @@ Currently, this project contains the files necessary to create your own Frame1 L
 
 The boards are compatible with Rev 1 Heavy and Rev 1/2 Light cases (to be sold in waves on the Frame1.gg website). Switch plate files are included for those who want to design their own case, but full files/guides for creating your own case are planned.
 
+# Changes in this fork
+- TP2/3 Through holes have been made larger, allowing the "fast/cheap" option of soldering the Pico directly to the OF1 PCB to be much more accessible to beginners. Beyond that, I have also added an extra keyswitch footprint to allow for a 21-button WASD layout using the [Bubblebox WASD firmware](https://github.com/UMS-Ultra/BubbleBox-Firmware/tree/BubbleBox-WASD-Firmware). This extra button does not interfere with any of the set pins for Pico-Rectangle or HayBox, so you can choose between a 20- or 21-button layout without having to remap GPIO pins on the Pico, giving you more options.
+
 
 # The Board
 ![whole board](https://user-images.githubusercontent.com/28491168/173757642-d8927d98-c139-43c3-8cbe-2c92696d7a9a.png)
