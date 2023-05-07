@@ -1,1 +1,3 @@
 Added larger holes (1.0mm) to the TP2/TP3 solder points for the pico footprint. Should make the "fast and cheap" way described in the Readme file significantly more accessible to beginner solderers, and even for seasoned solderers.
+
+Added an extra footprint for a WASD layout, compatible with Bubblebox WASD. Link to firmware can be found in the readme at the root level of this fork.
